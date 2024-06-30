@@ -80,15 +80,11 @@ header {
 
 /* Navbar Styles */
 .navbar-nav {
-    margin: auto;
     transition: background-color 0.5s ease;
 }
 .navbar-brand {
     font-family: 'Brush Script MT', cursive;
     font-size: 30px; /* Anda dapat menyesuaikan ukuran font sesuai kebutuhan */
-    position: absolute;
-    left: 10%;
-    transform: translateX(-50%) scale(1.1S);
     transition: transform 0.5s ease;
 }
 .navbar-nav:hover {
